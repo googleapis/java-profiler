@@ -4,7 +4,7 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/java-profiler.git",
-        "sha": "887ef41c9c6a2f0e19e5627bf9409cfa45c80169"
+        "sha": "198ffca6f8d1734a9594c84d8b2f51087d60af54"
       }
     },
     {
