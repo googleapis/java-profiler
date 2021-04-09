@@ -8,9 +8,6 @@ Java idiomatic client for [Cloud Profiler][product-docs].
 - [Product Documentation][product-docs]
 - [Client Library Documentation][javadocs]
 
-
-
-
 ## Quickstart
 
 
