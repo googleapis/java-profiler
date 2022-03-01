@@ -1,5 +1,19 @@
 # Changelog
 
+### [2.1.8](https://github.com/googleapis/java-profiler/compare/v2.1.7...v2.1.8) (2022-02-28)
+
+
+### Dependencies
+
+* update actions/setup-java action to v3 ([#230](https://github.com/googleapis/java-profiler/issues/230)) ([6981dde](https://github.com/googleapis/java-profiler/commit/6981dde8b4d5574613570f4b83177e1bb2300f4a))
+
+### [2.1.7](https://github.com/googleapis/java-profiler/compare/v2.1.6...v2.1.7) (2022-02-11)
+
+
+### Dependencies
+
+* update actions/github-script action to v6 ([#222](https://github.com/googleapis/java-profiler/issues/222)) ([d403b02](https://github.com/googleapis/java-profiler/commit/d403b020df89e0fadf60ecd35065c4734b63537f))
+
 ### [2.1.6](https://github.com/googleapis/java-profiler/compare/v2.1.5...v2.1.6) (2022-02-03)
 
 
