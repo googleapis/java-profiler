@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.5](https://github.com/googleapis/java-profiler/compare/v2.3.4...v2.3.5) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([8c287c4](https://github.com/googleapis/java-profiler/commit/8c287c43da8c07be9cd7299b5e489671881f0383))
+
 ## [2.3.4](https://github.com/googleapis/java-profiler/compare/v2.3.3...v2.3.4) (2022-10-05)
 
 
